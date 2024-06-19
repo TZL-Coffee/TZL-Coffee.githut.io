@@ -3,10 +3,6 @@ title: 'Products'
 date: 2024-06-19
 type: landing
 
-view: article-grid
-fill_image: false
-columns: 3
-
 design:
   # Section spacing
   spacing: '5rem'
@@ -21,10 +17,6 @@ sections:
       filters:
         folders:
           - coffee
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
   - block: collection
     id: tea   
     content:
