@@ -16,11 +16,11 @@ sections:
       text: some description about the coffee
       filters:
         folders:
-          - ./coffee
+          - "products/coffee"
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: "3"
   - block: collection
     id: tea   
     content:
@@ -28,7 +28,7 @@ sections:
       text: some description about the Tea
       filters:
         folders:
-          - ./coffee
+          - tea
     design:
       view: article-grid
       fill_image: false
