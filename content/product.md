@@ -16,7 +16,7 @@ sections:
       text: some description about the coffee
       filters:
         folders:
-          - "products/coffee"
+          - "coffee"
     design:
       view: article-grid
       fill_image: false
