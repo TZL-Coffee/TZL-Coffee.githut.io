@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2022-06-16
 
 type: landing
 
@@ -9,24 +9,30 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        We love to hear from our customers! Whether you have a question, feedback, or simply want to say hello, we are here to help. Our team is dedicated to providing you with the best experience possible.
+
+        Your feedback is invaluable to us. If you have any suggestions on how we can improve our products or services, please let us know. We are committed to constantly enhancing your coffee experience.
+
+        Feel free to customize the placeholders (e.g., email, phone number, address, social media links) to match the actual contact information of TZL Coffee.
+
+        Thank you for choosing TZL Coffee. We look forward to connecting with you!
+      email: tzl-coffee@outlook.com
+      phone: (+086) 182-2310-1021
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Haitangxi Street, Nan'an
+        city: Chongqing
+        region: Chongqing
+        postcode: '400065'
+        country: China
+        country_code: CHN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '29.5157182'
+        longitude: '106.5707934'
+      directions: 32-2-1 Tongzilou (筒子楼老街)
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        - 'Sunny Day: 10:00 to 20:00'
+        - 'Rainy Day: 12:00 to 18:00'
+      # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -37,13 +43,13 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '1'
 
