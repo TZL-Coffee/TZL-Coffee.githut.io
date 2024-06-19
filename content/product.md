@@ -6,9 +6,6 @@ type: landing
 design:
   # Section spacing
   spacing: '5rem'
-  view: article-grid
-  fill_image: false
-  columns: 3
 
 # Page sections
 sections:
@@ -27,5 +24,5 @@ sections:
       text: some description about the Tea
       filters:
         folders:
-          - tea      
+          - tea
 ---
