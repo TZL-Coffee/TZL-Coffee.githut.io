@@ -17,6 +17,10 @@ sections:
       filters:
         folders:
           - coffee
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
   - block: collection
     id: tea   
     content:
