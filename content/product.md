@@ -10,17 +10,12 @@ design:
 # Page sections
 sections:
   - block: collection
-    id: coffee
     content:
       title: Coffee
       text: some description about the coffee
       filters:
         folders:
           - coffee
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
   - block: collection
     id: tea   
     content:
