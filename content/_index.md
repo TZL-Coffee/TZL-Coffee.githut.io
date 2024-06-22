@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: promo.png
+          filename: fontPage.jfif
           filters:
             brightness: 1
           parallax: false
