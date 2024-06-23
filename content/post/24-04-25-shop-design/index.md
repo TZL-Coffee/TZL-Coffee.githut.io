@@ -13,4 +13,8 @@ I took photos of my store to the designer, and he suggested packaging the entire
 
 After inspecting the site, the designer said, "No problem, we can finish it in a day." However, I didn't expect that traveling back and forth from Sichuan Fine Arts Institute to Haitangxi, a total of 80 kilometers, and making four trips, it still wasn't completely done (mainly due to weather and issues left by the previous store owner).
 
+![shop](./shop.jpg)
+
 The designer has a West Highland White Terrier, which he brings along every time he comes. Whenever it stands at my store entrance, it attracts a lot of attention from passersby. The designer suggested that I get one too to increase foot traffic. I laughed and said, "I'm not sure my small shop earns enough to support it."
+
+![dog](./dog.jpg)
