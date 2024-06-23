@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Coffee
-      text: some description about the coffee
+      text: Awake the senses, invigorate the spirit. Experience the magic of a perfect cup of coffee.
       filters:
         folders:
           - coffee
@@ -20,8 +20,16 @@ sections:
     id: tea   
     content:
       title: Tea
-      text: some description about the Tea
+      text: Soothe the soul, awaken the senses. Indulge in the harmony of a perfect cup of tea.
       filters:
         folders:
           - tea
+  - block: collection
+    id: sparkling   
+    content:
+      title: Sparkling Water
+      text: Bubble up the fun! Refresh, rejuvenate, with every sip of our sparkling water.
+      filters:
+        folders:
+          - sparkling
 ---
