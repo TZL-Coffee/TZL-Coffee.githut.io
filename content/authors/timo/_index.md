@@ -56,7 +56,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/yuhangt1an
   - icon: book
-    icon_pack: custom
+    icon_pack: fab
     link: https://www.xiaohongshu.com/user/profile/6202a29b000000001000a96a
   - icon: github
     icon_pack: fab
@@ -76,4 +76,6 @@ user_groups:
   - Barista Research Team
 ---
 
-Yuhang graduated with a Bachelor's degree in Communications Engineering from Beijing Jiaotong University and earned a Master's degree in Cybersecurity from Delft University of Technology. After graduation, he worked at NSFOCUS in Chengdu, China, and Continental AG in Frankfurt, Germany. He is now going to pursue his Doctoral Degree at Eindhoven University of Technology.
+Yuhang graduated with a Bachelor's degree in Communications Engineering from Beijing Jiaotong University and earned a Master's degree in Cybersecurity from Delft University of Technology. After graduation, he worked at NSFOCUS in Chengdu, China, and Continental AG in Frankfurt, Germany. He will pursue his Doctoral Degree at Eindhoven University of Technology.
+
+Currently, Yuhang is pursuing his passion for coffee as a barista at Tongzilou Coffee (TZL Coffee).

@@ -49,7 +49,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/nannanjia
   - icon: book
-    icon_pack: custom
+    icon_pack: fab
     link: https://www.xiaohongshu.com/user/profile/6572c56c0000000020036b08
   - icon: github
     icon_pack: fab
@@ -78,3 +78,5 @@ Jasmine holds a Bachelor's degree in Communications Engineering from Beijing Jia
 In April 2024, she founded Tongzilou Coffee (TZL Coffee), a coffee shop and brand. Her café has become a staple on the Top 10 list of South Riverside Road's coffee shops, achieving its highest rank at sixth place.
 
 Jasmine specializes in American-style coffee and custom coffee blends. Beyond coffee, she is also skilled in crafting other soft drinks. Additionally, she is a social media influencer with a growing following of thousands.
+
+Currently, Jasmine aims to promote her personal account while managing her coffee shop. She warmly welcomes collaborations with interested parties.
