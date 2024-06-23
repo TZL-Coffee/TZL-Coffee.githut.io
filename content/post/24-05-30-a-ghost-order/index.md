@@ -3,9 +3,9 @@ title: Jesus!!! A Ghost Ordered My Coffee ?!
 date: 2024-05-30
 ---
 
-[for Chinese version](https://www.xiaohongshu.com/explore/66588d4900000000150128be)
-
 Someone ordered a cup of coffee, but no one was there.
+
+[Chinese version](https://www.xiaohongshu.com/explore/66588d4900000000150128be)
 
 <!--more-->
 
