@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: fontPage.jfif
+          filename: cover.jfif
           filters:
             brightness: 1
           parallax: false
