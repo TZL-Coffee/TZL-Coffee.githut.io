@@ -5,7 +5,7 @@ date: 2024-05-30
 
 Someone ordered a cup of coffee, but no one was there.
 
-[Chinese version](https://www.xiaohongshu.com/explore/66588d4900000000150128be)
+[Chinese version](https://www.xiaohongshu.com/explore/66588d4900000000150128be?xsec_token=ABheeFelQM-Dbb_VKxSmknD-tbw_w79Pjb8H9bpYiGtPY=&xsec_source=pc_user)
 
 <!--more-->
 
@@ -29,7 +29,7 @@ We followed the delivery driver upstairs, knocked on the door with no answer, an
 
 Today, just as our online service opened, another identical order came through. I immediately called to confirm.
 
-Today, she (using Chongqing dialect to express surprise) answered the phone again...
+Today, she answered the phone unexpectedly...
 
 "Did you just order an iced Americano?" I asked.
 
