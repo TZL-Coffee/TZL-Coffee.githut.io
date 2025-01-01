@@ -11,7 +11,7 @@ Someone ordered a cup of coffee, but no one was there.
 
 This afternoon, just as I was about to finish work, an order came in for an iced Americano. Not long after, another order for an iced Americano came through. And then another.
 
-I finished them all, went home, had dinner, and suddenly got a call from the delivery driver asking if I had placed the order for the second one. I was confused and asked what he meant. He said he had been asking around but no one knew of an 11th floor in that area. It had been three hours, and no one was picking up their phone. Me??? 
+I finished them all, went home, had dinner, and suddenly got a call from the delivery driver asking if I had placed the order for the second one. I was confused and asked what he meant. He said he had been asking around but no one knew of an 11th floor in that area. It had been three hours, and no one was picking up their phone. Me???
 
 I started trying to contact the customer, but no answer. I double-checked the other orders for iced Americanos, luckily they were all valid. I called my family and we went to that place together. How could there be a 15th floor without an 11th?
 

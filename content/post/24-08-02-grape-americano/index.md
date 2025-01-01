@@ -20,4 +20,4 @@ date: 2024-08-02
 3. Flavor of grape juice:Merlot is very sour. When mixed with soda water, it surprisingly develops a slight coconut milk taste—quite intriguing! NFC tasted exceptionally sweet, perhaps due to drinking after Merlot. Weiquan's sweet-and-sour profile is between the other two, with a thicker, more viscous texture.
 4. Flavor of Grape Sparkling Americano: Merlot offers a balance of sourness with a touch of sweetness. Even after sitting for a while, the grape flavor remains.NFC: The grape flavor of NFC is prominent when freshly made but becomes milder as the ice melts. Weiquan lacks the acidity of Merlot and the pronounced grape flavor of NFC. However, it’s not entirely like a plain iced Americano. Adding more grape juice might enhance the flavor.
 5. Cost: Merlot > NFC > Weiquan
-![](./grape_americano.jpg)
+![Grape Americano](./grape_americano.jpg)

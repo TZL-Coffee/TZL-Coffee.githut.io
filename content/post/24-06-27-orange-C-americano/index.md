@@ -13,12 +13,12 @@ date: 2024-06-27
 
 ### Review
 
-#### Orange Juice Options: Freshly squeezed VS Qoo VS NFC 
+#### Orange Juice Options: Freshly squeezed VS Qoo VS NFC
 
 1. Color: I personally love the color of blood orange juice. It’s different from the typical Orange C Americano look (see cover).
 NFC juice is also a freshly squeezed option with high juice concentration, making it easier to achieve layering compared to Qoo.
-![](./NFC.jpg)
-![](./Qoo.jpg)
+![NFC](./NFC.jpg)
+![Qoo](./Qoo.jpg)
 1. Flavor:The taste of blood orange juice and NFC is quite similar. The juice itself has a tangy and slightly bitter flavor, which combined with the bitterness of coffee, isn’t very palatable without added sugar. Additionally, their stronger orange flavor can overpower the coffee.
 Qoo juice, on the other hand, has a milder orange flavor and is sweeter, so you don’t need extra sugar. However, you’ll need to add about 30ml more juice.
 1. Cost:Freshly squeezed > NFC > Qoo
