@@ -3,7 +3,7 @@ title: My Secret to Make Grape Americano
 date: 2024-08-02
 ---
 
-## Recipe
+### Recipe
 
 125ml grape juice + 55ml sparkling water + double espresso + ice.
 
@@ -11,9 +11,9 @@ date: 2024-08-02
 
 <!--more-->
 
-## Review
+### Review
 
-### Grape Juice Options: Merlot 100% VS NFC VS Weiquan
+#### Grape Juice Options: Merlot 100% VS NFC VS Weiquan
 
 1. Color: Merlot and NFC have a similar reddish hue, while Weiquan leans more toward purple.
 2. Aroma:NFC has the most distinct grape scent with a hint of rose. The other two juices have a noticeable fermented smell, which is a bit peculiar.

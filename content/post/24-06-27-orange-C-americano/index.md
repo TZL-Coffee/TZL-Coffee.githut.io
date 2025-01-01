@@ -3,7 +3,7 @@ title: My Secret to Make Orange C Americano
 date: 2024-06-27
 ---
 
-## Recipe
+### Recipe
 
 150ml orange juice + double espresso + 30~50ml water + ice.
 
@@ -11,9 +11,9 @@ date: 2024-06-27
 
 <!--more-->
 
-## Review
+### Review
 
-### Orange Juice Options: Freshly squeezed VS Qoo VS NFC 
+#### Orange Juice Options: Freshly squeezed VS Qoo VS NFC 
 
 1. Color: I personally love the color of blood orange juice. It’s different from the typical Orange C Americano look (see cover).
 NFC juice is also a freshly squeezed option with high juice concentration, making it easier to achieve layering compared to Qoo.
