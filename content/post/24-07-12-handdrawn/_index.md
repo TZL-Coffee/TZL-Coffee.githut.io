@@ -9,4 +9,4 @@ I've created a set of hand-drawn designs based on the café menu and plan to tur
 
 [Chinese version](https://www.xiaohongshu.com/explore/6690b8f2000000000a004c96?xsec_token=ABbJdcpWFr5E8Gad9h11ApfUcXIuxuknJw7LeBSB-3Cd8=&xsec_source=pc_user)
 
-![](./feature.jpg)
+![](./featured.jpg)
